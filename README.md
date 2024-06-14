@@ -20,7 +20,6 @@ This project is a general-purpose test automation framework tailored for Android
 
 ## Installation
 1. **Clone the repository**:
-- ```bash
 - git clone https://github.com/yourrepository/android-framework.git
 - cd repository
 
